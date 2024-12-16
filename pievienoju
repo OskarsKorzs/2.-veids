@@ -1,0 +1,4 @@
+import uuid
+parole=uuid.uuid4()
+
+print(parole)
